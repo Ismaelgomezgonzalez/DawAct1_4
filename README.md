@@ -3,7 +3,7 @@
 ### Este repositorio contiene una lista de módulos de DAW
 [Mi cuenta de Github](https://github.com/Ismaelgomezgonzalez)
 ![Imagen de Github](descarga.png)
-`<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -21,4 +21,4 @@
     </ul>
 </body>
 </html>
-`
+```
